@@ -7,6 +7,9 @@ This work proposes a novel method to generate realistic talking head videos usin
 # Release Notes
 Aug 16, 2022: Our paper has been accepted to Winter Conference on Applications of Computer Vision (WACV), 2023.
 
+![demo1](https://user-images.githubusercontent.com/27224896/185211848-13debd5a-233a-426d-a91f-788d5826b0b5.gif)
+
+
 
 ## Contact
 AVFR-Gan was developed by [Madhav Agarwal](https://www.github.com/mdv3101), [Rudrabha Mukhopadhyay](https://rudrabha.github.io/), [Dr. Vinay P. Namboodiri](https://vinaypn.github.io/) and [Dr. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/). <br>
