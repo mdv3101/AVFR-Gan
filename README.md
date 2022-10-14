@@ -12,6 +12,16 @@ Aug 16, 2022: Our paper has been accepted to Winter Conference on Applications o
 ![demo1](https://user-images.githubusercontent.com/27224896/185211848-13debd5a-233a-426d-a91f-788d5826b0b5.gif)
 
 
+## Citation
+If you find this work useful for your research, please cite our paper
+```
+@article{agarwal2022audio,
+  title={Audio-Visual Face Reenactment},
+  author={Agarwal, Madhav and Mukhopadhyay, Rudrabha and Namboodiri, Vinay and Jawahar, CV},
+  journal={arXiv preprint arXiv:2210.02755},
+  year={2022}
+}
+```
 
 ## Contact
 AVFR-Gan was developed by [Madhav Agarwal](https://www.github.com/mdv3101), [Rudrabha Mukhopadhyay](https://rudrabha.github.io/), [Dr. Vinay P. Namboodiri](https://vinaypn.github.io/) and [Dr. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/). <br>
