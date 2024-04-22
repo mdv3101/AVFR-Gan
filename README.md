@@ -1,5 +1,6 @@
 # AVFR-Gan: Audio-Visual Face Reenactment 
-Official github repo for [Audio Visual Facial Reenactment](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) (WACV 2023). We will be releasing the code shortly. Stay tuned!
+Official github repo for [Audio Visual Facial Reenactment](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr) (WACV 2023). 
+For now, we have put the public release of code on hold due to licensing and ethical concerns. Feel free to reach out for any specific queries!
 
 Paper Link: [arXiv](https://arxiv.org/abs/2210.02755)
 
@@ -25,4 +26,4 @@ If you find this work useful for your research, please cite our paper
 
 ## Contact
 AVFR-Gan was developed by [Madhav Agarwal](https://www.github.com/mdv3101), [Rudrabha Mukhopadhyay](https://rudrabha.github.io/), [Dr. Vinay P. Namboodiri](https://vinaypn.github.io/) and [Dr. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/). <br>
-For any query, feel free to drop a mail to [Madhav Agarwal](mailto:madhav.agarwal@research.iiit.ac.in) by explicitly mentioning 'AVFR-Gan' in the subject.
+For any query, feel free to drop a mail to [Madhav Agarwal](mailto:madhav.agarwal@alumni.iiit.ac.in) by explicitly mentioning 'AVFR-Gan' in the subject.
